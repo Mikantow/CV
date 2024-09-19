@@ -28,7 +28,7 @@ _Chef de projet design graphique_
 ### EXPERIENCES
 #### Juillet 2024, 2023, 2022, 2021
 Pilote PCO [Tour de France](https://www.letour.fr/fr)
-_Opérateur radio et vidéo (sûreté et sécurité)
+_Opérateur radio et vidéo (sûreté et sécurité)_
 
 #### Janvier 2022 à Mars 2024
 Aeria Welcome
