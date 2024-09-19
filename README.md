@@ -1,5 +1,7 @@
 # CV
 
+![photo de profil](https://avatars.githubusercontent.com/u/26893413?s=400&u=4bf273af9a1a1a8280d93c8f5987a618bc5bc7e2&v=4)
+
 ## VIDAL ANTHONY
 
 ### Age :
@@ -37,6 +39,12 @@ Travail d’équipe<br>
 Organiser, passionner, curieux<br>
 Polyvalent<br>
 Facilité à s'adapter<br>
+
+### LOISIRS
+Sport _(Cyclisme, Football américain, F1...)_<br>
+Musique, Film, Série, Jeux vidéo<br>
+Sortie entre amis, Voyages 
+
 
 ### LANGUES
 Français (Langue natale),
